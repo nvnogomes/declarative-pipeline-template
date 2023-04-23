@@ -1,3 +1,3 @@
 #! /bin/bash
-echo "Run build script for demo pipeline"
+echo "Run build script for declarative pipeline"
 touch target/demoapp.jar
