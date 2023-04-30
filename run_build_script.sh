@@ -1,3 +1,9 @@
 #! /bin/bash
-echo "Run build script for declarative pipeline"
-touch target/demoapp.jar
+echo "Running build script for demo pipeline"
+echo "building demoapp "
+echo "*"
+echo "**"
+echo "***"
+echo "****"
+echo "*****"
+echo "Build successful"
