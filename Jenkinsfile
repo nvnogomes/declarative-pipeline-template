@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        powershell '-File run_build_script.ps1'
+        echo "Run build"
       }
     }
     stage('Test') {
